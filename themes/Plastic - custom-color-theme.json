@@ -891,7 +891,8 @@
                 "entity.name.function",
                 "support.function",
                 "meta.diff.range",
-                "punctuation.definition.range.diff"
+                "punctuation.definition.range.diff",
+                "meta.function-call"
             ],
             "settings": {
                 "foreground": "#B57EDC"
