@@ -951,7 +951,7 @@
                 "entity.name.tag",
                 "entity.name.type",
                 "support.type",
-                "variable.parameter.function.language.special.cls"
+                "variable.parameter.function.language.special.cls",
             ],
             "settings": {
                 "foreground": "#E5C07B"
@@ -972,7 +972,8 @@
                 "entity.other",
                 "punctuation.definition.entity",
                 "support.other",
-                "variable.parameter.function.language.special.self"
+                "variable.parameter.function.language.special.self",
+                "meta.function.decorator"
             ],
             "settings": {
                 "foreground": "#D19A66"
