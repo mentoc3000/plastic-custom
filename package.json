@@ -1,0 +1,21 @@
+{
+  "name": "jp-plastic",
+  "displayName": "jp-plastic",
+  "description": "JP's customization of Plastic",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Plastic - custom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Plastic - custom-color-theme.json"
+      }
+    ]
+  }
+}
