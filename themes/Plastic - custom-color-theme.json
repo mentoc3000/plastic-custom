@@ -906,7 +906,8 @@
                 "markup.deleted",
                 "meta.diff.header.from-file",
                 "punctuation.definition.deleted",
-                "punctuation.definition.from-file.diff"
+                "punctuation.definition.from-file.diff",
+                "punctuation.separator.slice"
             ],
             "settings": {
                 "foreground": "#E06C75"
