@@ -950,7 +950,8 @@
                 "entity.name.section",
                 "entity.name.tag",
                 "entity.name.type",
-                "support.type"
+                "support.type",
+                "variable.parameter.function.language.special.cls"
             ],
             "settings": {
                 "foreground": "#E5C07B"
