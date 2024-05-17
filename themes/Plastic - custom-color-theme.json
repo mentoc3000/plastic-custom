@@ -969,7 +969,8 @@
             "scope": [
                 "entity.other",
                 "punctuation.definition.entity",
-                "support.other"
+                "support.other",
+                "variable.parameter.function.language.special.self"
             ],
             "settings": {
                 "foreground": "#D19A66"
