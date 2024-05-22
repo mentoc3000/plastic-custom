@@ -907,7 +907,7 @@
                 "meta.diff.header.from-file",
                 "punctuation.definition.deleted",
                 "punctuation.definition.from-file.diff",
-                "punctuation.separator.slice"
+                "punctuation.separator.slice",
             ],
             "settings": {
                 "foreground": "#E06C75"
@@ -928,7 +928,9 @@
                 "storage",
                 "support.class",
                 "entity.name.namespace",
-                "meta.diff.header"
+                "meta.diff.header",
+                "meta.use.rust",
+                "entity.name.module.rust"
             ],
             "settings": {
                 "foreground": "#61AFEF"
@@ -975,7 +977,9 @@
                 "punctuation.definition.entity",
                 "support.other",
                 "variable.parameter.function.language.special.self",
-                "meta.function.decorator"
+                "meta.function.decorator",
+                "meta.attribute.rust",
+                "punctuation.definition.attribute.rust"
             ],
             "settings": {
                 "foreground": "#D19A66"
@@ -986,7 +990,8 @@
                 "meta.brace",
                 "punctuation",
                 "meta.member.access",
-                "variable.other.property"
+                "variable.other.property",
+                "keyword.operator.access.dot.rust"
             ],
             "settings": {
                 "foreground": "#A9B2C3"
@@ -1006,7 +1011,7 @@
             "scope": [
                 "comment",
                 "markup.italic",
-                "punctuation.definition.italic"
+                "punctuation.definition.italic",
             ],
             "settings": {
                 "fontStyle": "italic"
