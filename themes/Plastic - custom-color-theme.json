@@ -908,6 +908,8 @@
                 "punctuation.definition.deleted",
                 "punctuation.definition.from-file.diff",
                 "punctuation.separator.slice",
+                "storage.type.class.python",
+                "storage.type.function.python",
             ],
             "settings": {
                 "foreground": "#E06C75"
