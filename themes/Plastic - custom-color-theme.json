@@ -910,6 +910,7 @@
                 "punctuation.separator.slice",
                 "storage.type.class.python",
                 "storage.type.function.python",
+                "storage.type.function.async.python",
             ],
             "settings": {
                 "foreground": "#E06C75"
